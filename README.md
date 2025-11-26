@@ -119,35 +119,6 @@
 
 ---
 
-## 🗂️ CẤU TRÚC THƯ MỤC
-
-```
-Codementum/
-├── README.md                    # File này
-├── Buoi-01-HTML5-Form-Mastery.md
-├── Buoi-02-CSS-Selectors-Layout.md
-├── Buoi-03-JavaScript-Core.md
-├── Buoi-04-JavaScript-ES6.md
-├── Buoi-05-Web-Ecommerce.md
-├── Buoi-06-Kiem-tra-Giua-ky.md
-├── Buoi-07-CM-Studio-Co-ban.md
-├── Buoi-08-CM-Studio-Nang-cao.md
-├── Buoi-09-CM-App-Maker-UI.md
-├── Buoi-10-CM-App-Maker-Data.md
-├── Buoi-11-CM-Game-Maker-Co-ban.md
-├── Buoi-12-CM-Game-Maker-Physics.md
-├── Buoi-13-CM-Game-Maker-Logic.md
-├── Buoi-14-Du-an-Game-Hoan-chinh.md
-├── Buoi-15-Du-an-Web-Ecommerce.md
-├── Buoi-16-Tong-hop-Ky-nang.md
-├── Buoi-17-Chien-thuat-Speed-Run.md
-├── Buoi-18-Mock-Test-1.md
-├── Buoi-19-Mock-Test-2-Debugging.md
-└── Buoi-20-Tong-ket.md
-```
-
----
-
 ## 📝 LƯU Ý QUAN TRỌNG
 
 1. **Cân bằng kiến thức và kỹ năng**: Giáo trình được thiết kế để vừa nắm vững lý thuyết (để thi trắc nghiệm) vừa rèn luyện phản xạ (để đua tốc độ).
